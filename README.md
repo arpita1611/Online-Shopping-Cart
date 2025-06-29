@@ -22,3 +22,7 @@ This is a **console-based online shopping cart system** built using Python. It s
 - Console-based UI (no external libraries required)
 
 ---
+## 📂 Folder Structure
+
+├── Online_cart.py # Main logic of the application
+└── README.md # Project documentation
