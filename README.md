@@ -25,4 +25,5 @@ This is a **console-based online shopping cart system** built using Python. It s
 ## 📂 Folder Structure
 
 -  Online_cart.py # Main logic of the application
+-  products.json #list of products
 -  README.md # Project documentation
